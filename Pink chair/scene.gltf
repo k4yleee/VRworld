@@ -1,0 +1,404 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4354,
+      "max": [
+        108.97100067138672,
+        143.39332580566406,
+        19.634029388427734
+      ],
+      "min": [
+        86.97570037841797,
+        120.58993530273438,
+        1.672080636024475
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52248,
+      "componentType": 5126,
+      "count": 4354,
+      "max": [
+        0.9999703168869019,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999703168869019,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18096,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 104496,
+      "componentType": 5126,
+      "count": 4800,
+      "max": [
+        109.48869323730469,
+        143.57081604003906,
+        2.119025945663452
+      ],
+      "min": [
+        85.97775268554688,
+        119.77989959716797,
+        2.7138376026414335e-06
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 162096,
+      "componentType": 5126,
+      "count": 4800,
+      "max": [
+        0.9987495541572571,
+        0.9990344047546387,
+        0.9997158050537109
+      ],
+      "min": [
+        -0.9987495541572571,
+        -0.9990344047546387,
+        -0.9997158050537109
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 72384,
+      "componentType": 5125,
+      "count": 17040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 219696,
+      "componentType": 5126,
+      "count": 3883,
+      "max": [
+        107.95620727539063,
+        142.91891479492188,
+        41.10221862792969
+      ],
+      "min": [
+        83.7906265258789,
+        122.58577728271484,
+        19.371854782104492
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 266292,
+      "componentType": 5126,
+      "count": 3883,
+      "max": [
+        1.0,
+        0.9893614053726196,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9893614053726196,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 140544,
+      "componentType": 5125,
+      "count": 21042,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 312888,
+      "componentType": 5126,
+      "count": 277,
+      "max": [
+        105.50819396972656,
+        141.18653869628906,
+        22.656574249267578
+      ],
+      "min": [
+        90.01768493652344,
+        124.4884033203125,
+        20.67506217956543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 316212,
+      "componentType": 5126,
+      "count": 277,
+      "max": [
+        0.4885351061820984,
+        0.27031639218330383,
+        1.0
+      ],
+      "min": [
+        -0.1478765904903412,
+        -0.27031639218330383,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 224712,
+      "componentType": 5125,
+      "count": 1206,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "valentiaaquany (https://sketchfab.com/valentiaaquany)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pink-chair-c5078578f82147dd9c9e5b67b4f5ccef",
+      "title": "PINK CHAIR"
+    },
+    "generator": "Sketchfab-11.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 229536,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 319536,
+      "byteOffset": 229536,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 549072,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Silla_ceja__Aluminum_Polished",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.32549,
+          0.333333,
+          0.333333,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "name": "0136_Charcoal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.137255,
+          0.137255,
+          0.137255,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "name": "0007_MistyRose",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.996078,
+          0.792157,
+          0.772549,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "name": "Couleur_008",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.368627,
+          0.368627,
+          0.368627,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Material2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "mesh": 0,
+      "name": "Material2"
+    },
+    {
+      "mesh": 1,
+      "name": "Material2"
+    },
+    {
+      "mesh": 2,
+      "name": "Material2"
+    },
+    {
+      "mesh": 3,
+      "name": "Material3"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "SketchUp"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.7071068,
+        0.7071068,
+        -2.775558e-17,
+        0.0,
+        -0.2357023,
+        0.2357023,
+        0.942809,
+        0.0,
+        0.6666667,
+        -0.6666667,
+        0.3333333,
+        0.0,
+        130.251,
+        102.2725,
+        35.98157,
+        1.0
+      ],
+      "name": "skp_camera_Last_Saved_SketchUp_View"
+    },
+    {
+      "name": "ID1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
